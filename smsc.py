@@ -26,4 +26,4 @@ def smsc_send_call_code(
     return code_final
 
 if __name__ == '__main__':
-    smsc_send_call_code("worldedit", "Worldhack0", "79782215509")
+    smsc_send_call_code("", "", "")
